@@ -14,7 +14,5 @@ python main.py
 This project is finished.
 
 ## Preview
-
-
-
+https://github.com/DominikJur1/Pygame_Project/assets/162451655/a6954945-ee33-4d82-9618-a92ccb7d8d5b
 
