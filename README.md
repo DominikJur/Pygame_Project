@@ -11,7 +11,7 @@ In order to try the game yourself, clone the code of this projeckt to a director
 python main.py
 ```
 ## Requirements
-The "Pygame" library used in this project does not come preinstalled in vanilla python. In order to get the game running youmight need to run the following command in the command prompt (again make sure you are in the directory to which you downlowded the code).
+The "Pygame" library used in this project does not come preinstalled in vanilla python. In order to get the game running you might need to run the following command in the command prompt (again make sure you are in the directory to which you downlowded the code).
 
 ```bash
 pip install -r requriements.txt
